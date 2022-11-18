@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "name": "",
+  "prices": [
+    {
+      "capacity": "100ml",
+      "price": "",
+      "salePrice": "",
+      "image": "",
+      "status": true
+    }
+  ],
+  "description": "",
+  "images": [
+    "",
+    ""
+  ],
+  "gender": "nữ",
+  "brand": "",
+  "isNew": true,
+  "isHot": true
+}
